@@ -141,3 +141,29 @@ Con SecureTest, il futuro dei tuoi software è nelle mani di esperti fidati. Ren
 
 # Work breakdown structure:
 <img src="documentazione_gep\Web_Bounty_wbs.png">
+
+
+# User Stories
+- Come AMMINISTRATORE DI SISTEMA DI UN'AZIENDA, voglio poter assegnare specifici progetti di sicurezza a ESPERTI INDIPENDENTI, in questo modo posso garantire una distribuzione equa delle risorse e affidare ciascun progetto a un professionista qualificato PERCHE' la sicurezza delle reti e dei sistemi sia gestita in modo efficiente. (Alta)
+
+- Come AZIENDA O UTENTE PRIVATO, voglio poter richiedere una VALUTAZIONE DI SICUREZZA per il mio software, in modo da identificare e risolvere potenziali vulnerabilità, PERCHE' possa garantire la massima protezione per i dati sensibili e prevenire eventuali attacchi informatici. (Alta)
+
+- Come ESPERTO DI SICUREZZA voglio poter accedere a RAPPORTI DETTAGLIATI sulle valutazioni di sicurezza assegnate a me, in modo da comprendere appieno i problemi e fornire soluzioni precise e tempestive per garantire la massima protezione. (Media)
+
+- Come AZIENDA O CLIENTE PRIVATO voglio avere la possibilità di RICHIEDERE UN'ANALISI DELLA SICUREZZA per il mio sistema, in modo da identificare e risolvere eventuali vulnerabilità prima che possano essere sfruttate da potenziali minacce, garantendo la sicurezza dei miei dati sensibili. (Alta)
+
+- Come AMMINISTRATORE DI SISTEMA DI UN AZIENDA voglio ricevere NOTIFICHE TEMPESTIVE in caso di potenziali minacce di sicurezza, in modo da poter adottare misure preventive immediate e proteggere la rete aziendale da eventuali attacchi. (Alta)
+
+- Come CLIENTE AZIENDALE voglio poter MONITORARE CONTINUAMENTE lo stato di sicurezza del mio sistema attraverso un PANNELLO DI CONTROLLO INTUITIVO, in modo da essere sempre informato e poter adottare misure correttive tempestive. (Media)
+
+- Come ESPERTO DI SICUREZZA voglio poter COMUNICARE DIRETTAMENTE CON IL CLIENTE durante il processo di valutazione e risoluzione delle vulnerabilità, in modo da garantire una comprensione chiara delle soluzioni proposte e fornire supporto personalizzato.  (Alta)
+
+- Come CLIENTE PRIVATO O AZIENDA voglio ricevere REGOLARMENTE AGGIORNAMENTI SULLO STATO DELLA SICUREZZA DEL MIO SISTEMA, in modo da essere consapevole delle misure adottate e avere la certezza che la mia piattaforma sia sempre protetta. (Media)
+
+- Come CLIENTE PRIVATO O AZIENDA voglio che i rapporti di sicurezza SIANO ACCESSIBILI SOLO DA ME cosi anche se la piattaforma dovesse essere violata la sicurezza della mia azienda non sara messa a rischio.  (Alta)
+
+- Come NUOVO UTENTE, voglio poter REGISTRARMI facilmente sulla piattaforma inserendo le informazioni necessarie, così da poter accedere ai servizi di sicurezza offerti PERCHE' posso beneficiare delle valutazioni di sicurezza per proteggere il mio software. (Media)
+
+- Come UTENTE REGISTRATO, voglio avere la possibilità di RECUPERARE LA PASSWORD in modo rapido ed efficiente, nel caso in cui la dimentichi, PERCHE' posso mantenere l'accesso sicuro al mio account e alle informazioni sensibili associate. (Media)
+
+- Come CLIENTE PRIVATO O AZIENDA voglio poter scegliere LA SICUREZZA E RISERVATEZZA con cui il mio software verra analizzato permettendo solo agli esperti la cui identità è verificata di analizzarlo. (Alta)
